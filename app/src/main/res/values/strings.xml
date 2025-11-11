@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HabitationAndroid</string>
+
+    <!-- UI -->
+    <string name="titre">Calcul des impôts locaux</string>
+    <string name="surface">Surface</string>
+    <string name="pieces">Nombre de pièces</string>
+    <string name="piscine">Piscine</string>
+    <string name="btn_calcul">Calcul</string>
+
+    <!-- Hints -->
+    <string name="hint_surface">Surface (m²)</string>
+    <string name="hint_pieces">Nombre de pièces</string>
+
+    <!-- Erreurs / messages -->
+    <string name="err_surface">Veuillez saisir la surface</string>
+    <string name="err_pieces">Veuillez saisir le nombre de pièces</string>
+    <string name="err_format">Format invalide (ex: 120 ou 120,5)</string>
+    <string name="err_negatifs">Les valeurs ne doivent pas être négatives</string>
+
+    <!-- Résultat multi-ligne -->
+    <string name="res_format">Impôt de base : %1$s\nimpôt supplémentaire : %2$s\nimpôt Total : %3$s</string>
+</resources>
